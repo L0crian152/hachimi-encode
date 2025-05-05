@@ -4,8 +4,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/L0crian152/hachimimi.git
-cd hachimimi
+git clone https://github.com/L0crian152/hachimi.git
+cd hachimi
 
 # 安装依赖
 pip install -r requirements.txt
