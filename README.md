@@ -30,8 +30,8 @@ python3 hachimi.py decode "噶哈基米阿西哦阿西没路多噶哈基米哈�
 ```
 ![图片](https://github.com/user-attachments/assets/e93e8601-2989-4554-8dc3-0131faec5910)
 
-## 在线编码/解码
-http://hachimi.cc:11451
 
 
 ```
+## 在线编码/解码
+http://hachimi.cc:11451
