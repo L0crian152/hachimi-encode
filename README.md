@@ -33,4 +33,4 @@ python3 hachimi.py decode "噶哈基米阿西哦阿西没路多噶哈基米哈�
 
 
 ## 在线编码/解码
-http://hachimi.cc:11451
+http://hachimi.cc
